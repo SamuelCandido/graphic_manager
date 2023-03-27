@@ -5,6 +5,10 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
+    "react-router-dom": "^6.9.0",
+=======
+>>>>>>> d6eed5db1f1df5ce95e27ec3ea8e6ee49835a3dc
     "web-vitals": "^2.1.4"
   },
   "devDependencies": {
@@ -15,6 +19,10 @@
     "@types/node": "^16.18.21",
     "@types/react": "^18.0.29",
     "@types/react-dom": "^18.0.11",
+<<<<<<< HEAD
+    "@types/react-router-dom": "^5.3.3",
+=======
+>>>>>>> d6eed5db1f1df5ce95e27ec3ea8e6ee49835a3dc
     "react-scripts": "5.0.1",
     "typescript": "^4.9.5"
   },
