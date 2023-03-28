@@ -1,3 +1,5 @@
+// Aqui é definido as rotas
+
 import { BrowserRouter, Route, Routes as Switch, Navigate } from "react-router-dom";
 
 import { Dashboard} from "../pages";
